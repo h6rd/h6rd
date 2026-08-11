@@ -92,9 +92,9 @@ Edit particle effects
 
 > `21 ▶️` ∙ **[В поисках рая](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0/_/%D0%92+%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0%D1%85+%D1%80%D0%B0%D1%8F)** - [7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)<br/>
 > `21 ▶️` ∙ **[Вечное лето](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0/_/%D0%92%D0%B5%D1%87%D0%BD%D0%BE%D0%B5+%D0%BB%D0%B5%D1%82%D0%BE)** - [7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)<br/>
-> `21 ▶️` ∙ **[Anti-Life](https://www.last.fm/music/DECALIUS/_/Anti-Life)** - [DECALIUS](https://www.last.fm/music/DECALIUS)<br/>
-> `21 ▶️` ∙ **[Loneliness](https://www.last.fm/music/DECALIUS/_/Loneliness)** - [DECALIUS](https://www.last.fm/music/DECALIUS)<br/>
 > `20 ▶️` ∙ **[Право](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0/_/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE)** - [7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)<br/>
+> `20 ▶️` ∙ **[Рост](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0/_/%D0%A0%D0%BE%D1%81%D1%82)** - [7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)<br/>
+> `20 ▶️` ∙ **[Тоска](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0/_/%D0%A2%D0%BE%D1%81%D0%BA%D0%B0)** - [7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </div>
