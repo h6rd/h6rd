@@ -83,7 +83,7 @@ Edit particle effects
 > `1,654 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `558 ▶️` ∙ **[Lazzy2wice](https://www.last.fm/music/Lazzy2wice)**<br/>
 > `505 ▶️` ∙ **[SCARLXRD](https://www.last.fm/music/SCARLXRD)**<br/>
-> `442 ▶️` ∙ **[Психея](https://www.last.fm/music/%D0%9F%D1%81%D0%B8%D1%85%D0%B5%D1%8F)**<br/>
+> `423 ▶️` ∙ **[Психея](https://www.last.fm/music/%D0%9F%D1%81%D0%B8%D1%85%D0%B5%D1%8F)**<br/>
 > `404 ▶️` ∙ **[7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
