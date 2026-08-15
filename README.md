@@ -8,8 +8,6 @@
 &nbsp;
 [![Last.fm](https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/hrdq)
 
-![Currently listening to](https://lastfm-profile-readme.vercel.app/api/hrdq?isRounded=true)
-
 </div>
 
 ---
@@ -20,7 +18,7 @@
 <tr>
 <td width="50%">
 
-**[Dota2PornFxWeb](https://github.com/h6rd/Dota2PornFxWeb)**
+**[Dota2PornFxWeb](https://github.com/h6rd/Dota2PornFxWeb)** - 
 Mods collection
 
 </td>
@@ -67,7 +65,7 @@ Edit particle effects
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=h6rd&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=h6rd&hide_border=true&hide_title=true&border_radius=5)
 
 </div>
 
@@ -76,6 +74,8 @@ Edit particle effects
 ### Music
 
 <div align="center">
+
+![Currently listening to](https://lastfm-profile-readme.vercel.app/api/hrdq?isRounded=true)
 
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
