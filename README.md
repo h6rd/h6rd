@@ -4,10 +4,6 @@
 
 *I don't know shit*
 
-[![Steam](https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hrdq/)
-&nbsp;
-[![Last.fm](https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/hrdq)
-
 </div>
 
 ---
