@@ -77,8 +77,8 @@ Edit particle effects
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
 
 > `1,683 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-> `560 ▶️` ∙ **[Lazzy2wice](https://www.last.fm/music/Lazzy2wice)**<br/>
-> `543 ▶️` ∙ **[7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)**<br/>
+> `620 ▶️` ∙ **[Lazzy2wice](https://www.last.fm/music/Lazzy2wice)**<br/>
+> `544 ▶️` ∙ **[7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)**<br/>
 > `538 ▶️` ∙ **[SCARLXRD](https://www.last.fm/music/SCARLXRD)**<br/>
 > `403 ▶️` ∙ **[Синдром восьмиклассника](https://www.last.fm/music/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC+%D0%B2%D0%BE%D1%81%D1%8C%D0%BC%D0%B8%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D0%B8%D0%BA%D0%B0)**<br/>
 <!--END_LASTFM_ARTISTS-->
