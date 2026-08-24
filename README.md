@@ -80,7 +80,7 @@ Edit particle effects
 > `620 ▶️` ∙ **[Lazzy2wice](https://www.last.fm/music/Lazzy2wice)**<br/>
 > `544 ▶️` ∙ **[7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)**<br/>
 > `538 ▶️` ∙ **[SCARLXRD](https://www.last.fm/music/SCARLXRD)**<br/>
-> `403 ▶️` ∙ **[Синдром восьмиклассника](https://www.last.fm/music/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC+%D0%B2%D0%BE%D1%81%D1%8C%D0%BC%D0%B8%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D0%B8%D0%BA%D0%B0)**<br/>
+> `406 ▶️` ∙ **[Синдром восьмиклассника](https://www.last.fm/music/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC+%D0%B2%D0%BE%D1%81%D1%8C%D0%BC%D0%B8%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D0%B8%D0%BA%D0%B0)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_TRACKS:{"period": "1month", "rows": 5}-->
