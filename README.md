@@ -76,8 +76,8 @@ Edit particle effects
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
 
-> `1,692 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-> `689 ▶️` ∙ **[7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)**<br/>
+> `1,728 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
+> `717 ▶️` ∙ **[7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)**<br/>
 > `670 ▶️` ∙ **[Lazzy2wice](https://www.last.fm/music/Lazzy2wice)**<br/>
 > `538 ▶️` ∙ **[SCARLXRD](https://www.last.fm/music/SCARLXRD)**<br/>
 > `409 ▶️` ∙ **[Психея](https://www.last.fm/music/%D0%9F%D1%81%D0%B8%D1%85%D0%B5%D1%8F)**<br/>
@@ -86,11 +86,11 @@ Edit particle effects
 <!--START_LASTFM_TRACKS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Month**
 
-> `30 ▶️` ∙ **[1й круг](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0/_/1%D0%B9+%D0%BA%D1%80%D1%83%D0%B3)** - [7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)<br/>
-> `28 ▶️` ∙ **[В поисках рая](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0/_/%D0%92+%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0%D1%85+%D1%80%D0%B0%D1%8F)** - [7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)<br/>
-> `28 ▶️` ∙ **[Вечное лето](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0/_/%D0%92%D0%B5%D1%87%D0%BD%D0%BE%D0%B5+%D0%BB%D0%B5%D1%82%D0%BE)** - [7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)<br/>
-> `27 ▶️` ∙ **[Рост](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0/_/%D0%A0%D0%BE%D1%81%D1%82)** - [7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)<br/>
-> `27 ▶️` ∙ **[Чёрная весна](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0/_/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F+%D0%B2%D0%B5%D1%81%D0%BD%D0%B0)** - [7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)<br/>
+> `32 ▶️` ∙ **[1й круг](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0/_/1%D0%B9+%D0%BA%D1%80%D1%83%D0%B3)** - [7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)<br/>
+> `30 ▶️` ∙ **[В поисках рая](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0/_/%D0%92+%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0%D1%85+%D1%80%D0%B0%D1%8F)** - [7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)<br/>
+> `30 ▶️` ∙ **[Вечное лето](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0/_/%D0%92%D0%B5%D1%87%D0%BD%D0%BE%D0%B5+%D0%BB%D0%B5%D1%82%D0%BE)** - [7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)<br/>
+> `29 ▶️` ∙ **[Рост](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0/_/%D0%A0%D0%BE%D1%81%D1%82)** - [7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)<br/>
+> `29 ▶️` ∙ **[Чёрная весна](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0/_/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F+%D0%B2%D0%B5%D1%81%D0%BD%D0%B0)** - [7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </div>
