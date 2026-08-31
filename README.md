@@ -76,10 +76,10 @@ Edit particle effects
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
 
-> `1,728 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
+> `1,729 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `717 ▶️` ∙ **[7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)**<br/>
 > `670 ▶️` ∙ **[Lazzy2wice](https://www.last.fm/music/Lazzy2wice)**<br/>
-> `538 ▶️` ∙ **[SCARLXRD](https://www.last.fm/music/SCARLXRD)**<br/>
+> `554 ▶️` ∙ **[SCARLXRD](https://www.last.fm/music/SCARLXRD)**<br/>
 > `409 ▶️` ∙ **[Психея](https://www.last.fm/music/%D0%9F%D1%81%D0%B8%D1%85%D0%B5%D1%8F)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
