@@ -15,7 +15,7 @@
 <td width="50%">
 
 **[Dota2PornFxWeb](https://github.com/h6rd/Dota2PornFxWeb)** - 
-Mods collection
+Dota2 Mods collection
 
 </td>
 <td width="50%">
