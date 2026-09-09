@@ -78,7 +78,7 @@ Edit particle effects
 
 > `1,634 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `762 ▶️` ∙ **[7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)**<br/>
-> `720 ▶️` ∙ **[$uicideboy$](https://www.last.fm/music/$uicideboy$)**<br/>
+> `746 ▶️` ∙ **[$uicideboy$](https://www.last.fm/music/$uicideboy$)**<br/>
 > `670 ▶️` ∙ **[Lazzy2wice](https://www.last.fm/music/Lazzy2wice)**<br/>
 > `601 ▶️` ∙ **[Rory in early 20s](https://www.last.fm/music/Rory+in+early+20s)**<br/>
 <!--END_LASTFM_ARTISTS-->
