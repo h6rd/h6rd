@@ -76,9 +76,9 @@ Edit particle effects
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
 
-> `1,572 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-> `825 ▶️` ∙ **[$uicideboy$](https://www.last.fm/music/$uicideboy$)**<br/>
-> `769 ▶️` ∙ **[7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)**<br/>
+> `1,557 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
+> `918 ▶️` ∙ **[$uicideboy$](https://www.last.fm/music/$uicideboy$)**<br/>
+> `796 ▶️` ∙ **[7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)**<br/>
 > `670 ▶️` ∙ **[Lazzy2wice](https://www.last.fm/music/Lazzy2wice)**<br/>
 > `561 ▶️` ∙ **[SCARLXRD](https://www.last.fm/music/SCARLXRD)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -86,11 +86,11 @@ Edit particle effects
 <!--START_LASTFM_TRACKS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Month**
 
-> `32 ▶️` ∙ **[28 дней](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F/_/28+%D0%B4%D0%BD%D0%B5%D0%B9)** - [6000000000себя](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F)<br/>
-> `31 ▶️` ∙ **[6000000000](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F/_/6000000000)** - [6000000000себя](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F)<br/>
-> `30 ▶️` ∙ **[Я ненавижу себя и хочу умереть](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F/_/%D0%AF+%D0%BD%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B6%D1%83+%D1%81%D0%B5%D0%B1%D1%8F+%D0%B8+%D1%85%D0%BE%D1%87%D1%83+%D1%83%D0%BC%D0%B5%D1%80%D0%B5%D1%82%D1%8C)** - [6000000000себя](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F)<br/>
-> `29 ▶️` ∙ **[sekairotten](https://www.last.fm/music/sekairotten/_/sekairotten)** - [sekairotten](https://www.last.fm/music/sekairotten)<br/>
-> `28 ▶️` ∙ **[Адреналин](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F/_/%D0%90%D0%B4%D1%80%D0%B5%D0%BD%D0%B0%D0%BB%D0%B8%D0%BD)** - [6000000000себя](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F)<br/>
+> `34 ▶️` ∙ **[28 дней](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F/_/28+%D0%B4%D0%BD%D0%B5%D0%B9)** - [6000000000себя](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F)<br/>
+> `33 ▶️` ∙ **[6000000000](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F/_/6000000000)** - [6000000000себя](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F)<br/>
+> `31 ▶️` ∙ **[Я ненавижу себя и хочу умереть](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F/_/%D0%AF+%D0%BD%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B6%D1%83+%D1%81%D0%B5%D0%B1%D1%8F+%D0%B8+%D1%85%D0%BE%D1%87%D1%83+%D1%83%D0%BC%D0%B5%D1%80%D0%B5%D1%82%D1%8C)** - [6000000000себя](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F)<br/>
+> `30 ▶️` ∙ **[Адреналин](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F/_/%D0%90%D0%B4%D1%80%D0%B5%D0%BD%D0%B0%D0%BB%D0%B8%D0%BD)** - [6000000000себя](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F)<br/>
+> `30 ▶️` ∙ **[дельфины. бог устал нас любить](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F/_/%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D0%BD%D1%8B.+%D0%B1%D0%BE%D0%B3+%D1%83%D1%81%D1%82%D0%B0%D0%BB+%D0%BD%D0%B0%D1%81+%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D1%8C)** - [6000000000себя](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </div>
