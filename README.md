@@ -76,8 +76,8 @@ Edit particle effects
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
 
-> `1,013 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `945 ▶️` ∙ **[$uicideboy$](https://www.last.fm/music/$uicideboy$)**<br/>
+> `867 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `796 ▶️` ∙ **[7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)**<br/>
 > `726 ▶️` ∙ **[Lazzy2wice](https://www.last.fm/music/Lazzy2wice)**<br/>
 > `629 ▶️` ∙ **[Rory in early 20s](https://www.last.fm/music/Rory+in+early+20s)**<br/>
@@ -88,9 +88,9 @@ Edit particle effects
 
 > `37 ▶️` ∙ **[sekairotten](https://www.last.fm/music/sekairotten/_/sekairotten)** - [sekairotten](https://www.last.fm/music/sekairotten)<br/>
 > `29 ▶️` ∙ **[28 дней](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F/_/28+%D0%B4%D0%BD%D0%B5%D0%B9)** - [6000000000себя](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F)<br/>
+> `29 ▶️` ∙ **[Бодхи](https://www.last.fm/music/%D0%9D%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D1%88%D0%BD%D0%B8%D1%82/_/%D0%91%D0%BE%D0%B4%D1%85%D0%B8)** - [Неботошнит](https://www.last.fm/music/%D0%9D%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D1%88%D0%BD%D0%B8%D1%82)<br/>
 > `28 ▶️` ∙ **[6000000000](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F/_/6000000000)** - [6000000000себя](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F)<br/>
 > `26 ▶️` ∙ **[Адреналин](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F/_/%D0%90%D0%B4%D1%80%D0%B5%D0%BD%D0%B0%D0%BB%D0%B8%D0%BD)** - [6000000000себя](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F)<br/>
-> `26 ▶️` ∙ **[Часть моих мыслей](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F/_/%D0%A7%D0%B0%D1%81%D1%82%D1%8C+%D0%BC%D0%BE%D0%B8%D1%85+%D0%BC%D1%8B%D1%81%D0%BB%D0%B5%D0%B9)** - [6000000000себя](https://www.last.fm/music/6000000000%D1%81%D0%B5%D0%B1%D1%8F)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </div>
