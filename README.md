@@ -76,21 +76,21 @@ Edit particle effects
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
 
-> `945 ▶️` ∙ **[$uicideboy$](https://www.last.fm/music/$uicideboy$)**<br/>
+> `872 ▶️` ∙ **[$uicideboy$](https://www.last.fm/music/$uicideboy$)**<br/>
 > `796 ▶️` ∙ **[7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)**<br/>
-> `747 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-> `727 ▶️` ∙ **[Lazzy2wice](https://www.last.fm/music/Lazzy2wice)**<br/>
-> `572 ▶️` ∙ **[Rory in early 20s](https://www.last.fm/music/Rory+in+early+20s)**<br/>
+> `745 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
+> `728 ▶️` ∙ **[Lazzy2wice](https://www.last.fm/music/Lazzy2wice)**<br/>
+> `562 ▶️` ∙ **[Rory in early 20s](https://www.last.fm/music/Rory+in+early+20s)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_TRACKS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Month**
 
-> `38 ▶️` ∙ **[sekairotten](https://www.last.fm/music/sekairotten/_/sekairotten)** - [sekairotten](https://www.last.fm/music/sekairotten)<br/>
-> `31 ▶️` ∙ **[Бодхи](https://www.last.fm/music/%D0%9D%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D1%88%D0%BD%D0%B8%D1%82/_/%D0%91%D0%BE%D0%B4%D1%85%D0%B8)** - [Неботошнит](https://www.last.fm/music/%D0%9D%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D1%88%D0%BD%D0%B8%D1%82)<br/>
-> `28 ▶️` ∙ **[На пороге вечности](https://www.last.fm/music/%D0%9D%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D1%88%D0%BD%D0%B8%D1%82/_/%D0%9D%D0%B0+%D0%BF%D0%BE%D1%80%D0%BE%D0%B3%D0%B5+%D0%B2%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8)** - [Неботошнит](https://www.last.fm/music/%D0%9D%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D1%88%D0%BD%D0%B8%D1%82)<br/>
-> `26 ▶️` ∙ **[Печаль будет длиться вечно](https://www.last.fm/music/%D0%9D%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D1%88%D0%BD%D0%B8%D1%82/_/%D0%9F%D0%B5%D1%87%D0%B0%D0%BB%D1%8C+%D0%B1%D1%83%D0%B4%D0%B5%D1%82+%D0%B4%D0%BB%D0%B8%D1%82%D1%8C%D1%81%D1%8F+%D0%B2%D0%B5%D1%87%D0%BD%D0%BE)** - [Неботошнит](https://www.last.fm/music/%D0%9D%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D1%88%D0%BD%D0%B8%D1%82)<br/>
-> `25 ▶️` ∙ **[сепия сетчатки](https://www.last.fm/music/Lazzy2wice/_/%D1%81%D0%B5%D0%BF%D0%B8%D1%8F+%D1%81%D0%B5%D1%82%D1%87%D0%B0%D1%82%D0%BA%D0%B8)** - [Lazzy2wice](https://www.last.fm/music/Lazzy2wice)<br/>
+> `40 ▶️` ∙ **[sekairotten](https://www.last.fm/music/sekairotten/_/sekairotten)** - [sekairotten](https://www.last.fm/music/sekairotten)<br/>
+> `35 ▶️` ∙ **[Бодхи](https://www.last.fm/music/%D0%9D%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D1%88%D0%BD%D0%B8%D1%82/_/%D0%91%D0%BE%D0%B4%D1%85%D0%B8)** - [Неботошнит](https://www.last.fm/music/%D0%9D%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D1%88%D0%BD%D0%B8%D1%82)<br/>
+> `31 ▶️` ∙ **[На пороге вечности](https://www.last.fm/music/%D0%9D%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D1%88%D0%BD%D0%B8%D1%82/_/%D0%9D%D0%B0+%D0%BF%D0%BE%D1%80%D0%BE%D0%B3%D0%B5+%D0%B2%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8)** - [Неботошнит](https://www.last.fm/music/%D0%9D%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D1%88%D0%BD%D0%B8%D1%82)<br/>
+> `29 ▶️` ∙ **[Печаль будет длиться вечно](https://www.last.fm/music/%D0%9D%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D1%88%D0%BD%D0%B8%D1%82/_/%D0%9F%D0%B5%D1%87%D0%B0%D0%BB%D1%8C+%D0%B1%D1%83%D0%B4%D0%B5%D1%82+%D0%B4%D0%BB%D0%B8%D1%82%D1%8C%D1%81%D1%8F+%D0%B2%D0%B5%D1%87%D0%BD%D0%BE)** - [Неботошнит](https://www.last.fm/music/%D0%9D%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D1%88%D0%BD%D0%B8%D1%82)<br/>
+> `26 ▶️` ∙ **[сепия сетчатки](https://www.last.fm/music/Lazzy2wice/_/%D1%81%D0%B5%D0%BF%D0%B8%D1%8F+%D1%81%D0%B5%D1%82%D1%87%D0%B0%D1%82%D0%BA%D0%B8)** - [Lazzy2wice](https://www.last.fm/music/Lazzy2wice)<br/>
 <!--END_LASTFM_TRACKS-->
 
 </div>
