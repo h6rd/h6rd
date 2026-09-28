@@ -79,8 +79,8 @@ Edit particle effects
 > `872 ▶️` ∙ **[$uicideboy$](https://www.last.fm/music/$uicideboy$)**<br/>
 > `796 ▶️` ∙ **[7раса](https://www.last.fm/music/7%D1%80%D0%B0%D1%81%D0%B0)**<br/>
 > `745 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-> `728 ▶️` ∙ **[Lazzy2wice](https://www.last.fm/music/Lazzy2wice)**<br/>
-> `576 ▶️` ∙ **[Автостопом по фазе сна](https://www.last.fm/music/%D0%90%D0%B2%D1%82%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BC+%D0%BF%D0%BE+%D1%84%D0%B0%D0%B7%D0%B5+%D1%81%D0%BD%D0%B0)**<br/>
+> `688 ▶️` ∙ **[Lazzy2wice](https://www.last.fm/music/Lazzy2wice)**<br/>
+> `605 ▶️` ∙ **[Автостопом по фазе сна](https://www.last.fm/music/%D0%90%D0%B2%D1%82%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BC+%D0%BF%D0%BE+%D1%84%D0%B0%D0%B7%D0%B5+%D1%81%D0%BD%D0%B0)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_TRACKS:{"period": "1month", "rows": 5}-->
