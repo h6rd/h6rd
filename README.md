@@ -76,11 +76,11 @@ Edit particle effects
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
 
-> `1,276 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
-> `1,153 ▶️` ∙ **[$uicideboy$](https://www.last.fm/music/$uicideboy$)**<br/>
+> `1,251 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
+> `1,131 ▶️` ∙ **[$uicideboy$](https://www.last.fm/music/$uicideboy$)**<br/>
 > `864 ▶️` ∙ **[Автостопом по фазе сна](https://www.last.fm/music/%D0%90%D0%B2%D1%82%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BC+%D0%BF%D0%BE+%D1%84%D0%B0%D0%B7%D0%B5+%D1%81%D0%BD%D0%B0)**<br/>
+> `664 ▶️` ∙ **[SCARLXRD](https://www.last.fm/music/SCARLXRD)**<br/>
 > `657 ▶️` ∙ **[emoslut666](https://www.last.fm/music/emoslut666)**<br/>
-> `654 ▶️` ∙ **[SCARLXRD](https://www.last.fm/music/SCARLXRD)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_TRACKS:{"period": "1month", "rows": 5}-->
