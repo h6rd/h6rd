@@ -76,9 +76,9 @@ Edit particle effects
 <!--START_LASTFM_ARTISTS:{"period": "3month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past 3 Months**
 
-> `1,234 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
+> `1,231 ▶️` ∙ **[Bones](https://www.last.fm/music/Bones)**<br/>
 > `1,138 ▶️` ∙ **[$uicideboy$](https://www.last.fm/music/$uicideboy$)**<br/>
-> `863 ▶️` ∙ **[Автостопом по фазе сна](https://www.last.fm/music/%D0%90%D0%B2%D1%82%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BC+%D0%BF%D0%BE+%D1%84%D0%B0%D0%B7%D0%B5+%D1%81%D0%BD%D0%B0)**<br/>
+> `866 ▶️` ∙ **[Автостопом по фазе сна](https://www.last.fm/music/%D0%90%D0%B2%D1%82%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BC+%D0%BF%D0%BE+%D1%84%D0%B0%D0%B7%D0%B5+%D1%81%D0%BD%D0%B0)**<br/>
 > `802 ▶️` ∙ **[SCARLXRD](https://www.last.fm/music/SCARLXRD)**<br/>
 > `629 ▶️` ∙ **[emoslut666](https://www.last.fm/music/emoslut666)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -86,9 +86,9 @@ Edit particle effects
 <!--START_LASTFM_TRACKS:{"period": "1month", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - Past Month**
 
-> `34 ▶️` ∙ **[Не уходи](https://www.last.fm/music/%D0%94%D0%BE%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0/_/%D0%9D%D0%B5+%D1%83%D1%85%D0%BE%D0%B4%D0%B8)** - [Дозавтра](https://www.last.fm/music/%D0%94%D0%BE%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0)<br/>
-> `31 ▶️` ∙ **[Только ты и я](https://www.last.fm/music/%D0%94%D0%BE%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0/_/%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+%D1%82%D1%8B+%D0%B8+%D1%8F)** - [Дозавтра](https://www.last.fm/music/%D0%94%D0%BE%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0)<br/>
-> `30 ▶️` ∙ **[Интро](https://www.last.fm/music/%D0%94%D0%BE%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0/_/%D0%98%D0%BD%D1%82%D1%80%D0%BE)** - [Дозавтра](https://www.last.fm/music/%D0%94%D0%BE%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0)<br/>
+> `33 ▶️` ∙ **[Не уходи](https://www.last.fm/music/%D0%94%D0%BE%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0/_/%D0%9D%D0%B5+%D1%83%D1%85%D0%BE%D0%B4%D0%B8)** - [Дозавтра](https://www.last.fm/music/%D0%94%D0%BE%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0)<br/>
+> `30 ▶️` ∙ **[Только ты и я](https://www.last.fm/music/%D0%94%D0%BE%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0/_/%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+%D1%82%D1%8B+%D0%B8+%D1%8F)** - [Дозавтра](https://www.last.fm/music/%D0%94%D0%BE%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0)<br/>
+> `29 ▶️` ∙ **[Интро](https://www.last.fm/music/%D0%94%D0%BE%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0/_/%D0%98%D0%BD%D1%82%D1%80%D0%BE)** - [Дозавтра](https://www.last.fm/music/%D0%94%D0%BE%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0)<br/>
 > `27 ▶️` ∙ **[Посторонний](https://www.last.fm/music/%D0%9D%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D1%88%D0%BD%D0%B8%D1%82/_/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9)** - [Неботошнит](https://www.last.fm/music/%D0%9D%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D1%88%D0%BD%D0%B8%D1%82)<br/>
 > `26 ▶️` ∙ **[Шум и пустота](https://www.last.fm/music/%D0%94%D0%BE%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0/_/%D0%A8%D1%83%D0%BC+%D0%B8+%D0%BF%D1%83%D1%81%D1%82%D0%BE%D1%82%D0%B0)** - [Дозавтра](https://www.last.fm/music/%D0%94%D0%BE%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0)<br/>
 <!--END_LASTFM_TRACKS-->
